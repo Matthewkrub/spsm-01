@@ -1,4 +1,4 @@
-password = "spsm"
+password = "Korn"
 
 input_password = input("Please enter your password: ")
 
